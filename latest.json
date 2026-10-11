@@ -1,0 +1,20 @@
+{
+  "version": "0.8.0",
+  "tag": "v0.8.0",
+  "published_at": "2026-10-10T16:30:09Z",
+  "notes_url": "https://github.com/adze-app/adze-releases/releases/tag/v0.8.0",
+  "downloads": {
+    "mac-arm64": {
+      "url": "https://github.com/adze-app/adze-releases/releases/download/v0.8.0/Adze-0.8.0-mac-arm64.dmg",
+      "size": 130665362
+    },
+    "mac-x64": {
+      "url": "https://github.com/adze-app/adze-releases/releases/download/v0.8.0/Adze-0.8.0-mac-x64.dmg",
+      "size": 137546020
+    },
+    "win-x64": {
+      "url": "https://github.com/adze-app/adze-releases/releases/download/v0.8.0/Adze-0.8.0-win-x64.exe",
+      "size": 120336615
+    }
+  }
+}
